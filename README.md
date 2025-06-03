@@ -31,4 +31,4 @@ This is a high-performance weather API service built with Laravel. It integrates
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/weather-api-laravel.git
+   git clone https://github.com/devforge-php/Weather-Api.git
